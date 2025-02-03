@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"igiag"
+	],
+	"copyright": "Copyright © 2025, igiag",
+	"dependencies": {
+		"ggplotd": "~>1.2.3"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "danlt"
+}
